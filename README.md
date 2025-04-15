@@ -24,13 +24,8 @@ A modern, responsive portfolio website showcasing my skills, projects, and profe
 
 ## 🚀 Live Demo
 
-[View Portfolio Website](https://your-username.github.io/portfolio) <!-- Update with your actual URL -->
+[View Portfolio Website](ttps://maad328.github.io/portfolio/) <!-- Update with your actual URL -->
 
-## 📷 Screenshots
-
-<!-- Add screenshots here once deployed -->
-
-![Portfolio Preview](screenshots/preview.png)
 
 ## 🛠️ Setup & Installation
 
